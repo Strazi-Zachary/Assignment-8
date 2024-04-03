@@ -1,0 +1,4 @@
+ASR devices develop effectively imperceptible audio adversarial examples
+(verified through a human study) by leveraging
+the psychoacoustic principle of auditory masking, while retaining 100% targeted success rate
+on arbitrary full-sentence targets.
