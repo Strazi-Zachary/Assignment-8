@@ -1,0 +1,2 @@
+For research ideas I will be discussing how to manipulate audio
+to create a misclassification in ASR devices
